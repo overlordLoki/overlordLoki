@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **overlordLoki/overlordLoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sure! Here's a more concise version of your GitHub `README.md`:
 
----
-
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Tymon Anderson! 👋
 
 Welcome to my GitHub profile! I'm passionate about web development, AI, Games and other Data technologies.
 
