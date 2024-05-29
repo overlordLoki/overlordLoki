@@ -24,9 +24,3 @@ Welcome to my GitHub profile! I'm passionate about web development, AI, Games an
 
 ## 🔒 Private Projects
 I also work on private projects in machine learning, web apps, and AI research.
-
-## 📫 Reach Me
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
