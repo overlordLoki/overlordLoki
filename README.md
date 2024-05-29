@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Tymon Anderson! 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm passionate about web development, AI, Games and other Data technologies.
 
