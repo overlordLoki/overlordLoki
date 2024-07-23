@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 Welcome to my GitHub profile! I'm passionate about web development, AI, Games and other Data technologies.
+Checkout my cv-website
+https://cv.overlord-loki.com/
 
 ## 🔒 Private Projects
 I also work on private projects in machine learning, web apps, and AI research.
